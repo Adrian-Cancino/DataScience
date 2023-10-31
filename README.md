@@ -7,7 +7,7 @@
 [Videos sobre Machine Learning utilizando Scikit-Learn](https://www.youtube.com/playlist?list=PL7L9BEVTY9bNFfBpHzv9tDB8bw_lKGaMl)
 
 - 01: [Regresión Lineal Simple y Múltiple](https://youtu.be/fZuVl3sk1Y8)
-- 02: [Regresión Polinómica]()
+- 02: [Regresión Polinómica](https://youtu.be/vTbyIi-heDw)
 - 03: [Análisis Financiero más Machine Learning](https://youtu.be/5MxPgLpKVgY)
 
 <img alt="Machine Learning" src="https://github.com/Adrian-Cancino/DataScience/assets/71229190/cad12c4f-7d97-437a-8a55-e48155de07b8" width="500">
