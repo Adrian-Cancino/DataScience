@@ -9,6 +9,7 @@
 - 01: [Regresión Lineal Simple y Múltiple](https://youtu.be/fZuVl3sk1Y8)
 - 02: [Regresión Polinómica](https://youtu.be/vTbyIi-heDw)
 - 03: [Análisis Financiero más Machine Learning](https://youtu.be/5MxPgLpKVgY)
+- 04: [Regresión Máquina de Soporte Vectorial](https://youtu.be/cQiEvmhtN-U)
 
 <img alt="Machine Learning" src="https://github.com/Adrian-Cancino/DataScience/assets/71229190/cad12c4f-7d97-437a-8a55-e48155de07b8" width="500">
 
